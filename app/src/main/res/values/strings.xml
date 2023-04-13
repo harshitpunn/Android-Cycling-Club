@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Vancouver Cycling Club</string>
+    <string name="heading_value">Content Registration</string>
+    <string name="number_athletes_hint_value">Number of Athletes on Team</string>
+    <string-array name="cities">
+        <item>Nanaimo</item>
+        <item>Victoria</item>
+        <item>Vancouver</item>
+    </string-array>
+    <string name="compute_button_value">Compute Cost</string>
+
+</resources>
